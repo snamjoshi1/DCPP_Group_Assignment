@@ -10,7 +10,7 @@ Execute the file "DCPP_Project_UniverseGuide_Scraping.ipynb"
 The Output of this file is "univ_guide_final.xlsx"
 Note: The Data needs to be scraped in samples. So we need to add range of values in numbers for iterating over the list. the samples are stored in temp files ug_1.xlsx to ug_13.xlsx . The manual samples are needed as the site blocks if number of requests exceed some limit
 
-Step 1 and 2 consist of actual data carwling steps and adding of data gained from crawling to Structured data sources such as excel
+Step 1 and 2 consist of actual data crawling steps and adding of data gained from crawling to Structured data sources such as excel
 
 Step 3:#Combining files from steps 1 and 2 and cleaning the data to form final cleaned data file
 Execute the file "DataCleaning.ipynb"
